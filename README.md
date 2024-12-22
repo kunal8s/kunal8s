@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋 , I’m Kunal, a CSE B.Tech student at Lovely Professional University, aspiring software developer. I’m passionate about learning new technologies and creating innovative software solutions. Always excited to solve real-world problems through coding! 
 
 <!--
 **kunal8s/kunal8s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
